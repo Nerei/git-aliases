@@ -1,0 +1,8 @@
+alias s='git s'
+alias co='git co'
+alias br='git br -avv'
+alias fe='git fetch -v'
+alias pu='git push'
+alias pugh='git push github'
+alias stl='git log --format="%C(magenta) %d %C(yellow) %h %C(cyan) %an (%cn) %Cgreen [%s] %Creset" --stat --graph'
+alias ghr='git reset --hard HEAD' 
